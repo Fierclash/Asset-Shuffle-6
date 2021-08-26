@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 /// </summary>
 public class GameManager : MonoBehaviour
 {
-    public KeyCode restartKey;
+    public KeyCode restartKey;  // The key to press to reset the scene
 
     #region Singleton Pattern
     /*  
